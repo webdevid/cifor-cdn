@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="487px" height="75px" viewBox="0 0 487 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Bitmap 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="26.340971%" y1="4.83708273%" x2="78.5826972%" y2="92.4748447%" id="linearGradient-1">
+            <stop stop-color="#67C9CB" offset="0%"></stop>
+            <stop stop-color="#B1D8B7" offset="100%"></stop>
+        </linearGradient>
+        <path d="M36.5,65 C52.2401154,65 65,52.2401154 65,36.5 C65,20.7598846 52.2401154,8 36.5,8 C20.7598846,8 8,20.7598846 8,36.5 C8,52.2401154 20.7598846,65 36.5,65 Z M36.5,73 C16.3416066,73 0,56.6583934 0,36.5 C0,16.3416066 16.3416066,0 36.5,0 C56.6583934,0 73,16.3416066 73,36.5 C73,56.6583934 56.6583934,73 36.5,73 Z" id="path-2"></path>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-v3" transform="translate(-862.000000, -2382.000000)">
+            <g id="special-feature" transform="translate(0.000000, 2189.000000)">
+                <g id="Group-13" transform="translate(219.000000, 60.000000)">
+                    <g id="Bitmap-2" transform="translate(642.000000, 131.000000)">
+                        <g id="Rectangle-4" transform="translate(202.000000, 4.000000)">
+                            <g id="Rectangle">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <use id="Mask" fill="url(#linearGradient-1)" fill-rule="nonzero" xlink:href="#path-2"></use>
+                                <rect fill="#00A5A7" mask="url(#mask-3)" x="-2" y="-10" width="38.5" height="46.5"></rect>
+                            </g>
+                        </g>
+                        <text id="2,900,000" font-family="CerebriSans-Bold, Cerebri Sans" font-size="25" font-weight="bold" line-spacing="18" fill="#FFFFFF">
+                            <tspan x="0" y="54">2,900,000</tspan>
+                        </text>
+                        <text id="Indonesia-has" font-family="CerebriSans-Light, Cerebri Sans" font-size="16" font-weight="300" line-spacing="18" fill="#FFFFFF">
+                            <tspan x="1" y="16.7000008">Indonesia has</tspan>
+                        </text>
+                        <text id="Almost-1/4-of-all-ma" font-family="CerebriSans-Light, Cerebri Sans" font-size="20" font-weight="300" line-spacing="21" fill="#FFFFFF">
+                            <tspan x="296" y="27.7000008">Almost 1/4 of all </tspan>
+                            <tspan x="296" y="48.7000008">mangroves ecosystem </tspan>
+                            <tspan x="296" y="69.7000008">on earth</tspan>
+                        </text>
+                        <text id="25%" font-family="CerebriSans-Light, Cerebri Sans" font-size="23" font-weight="300" line-spacing="18" fill="#FFFFFF">
+                            <tspan x="218.5" y="52">25%</tspan>
+                        </text>
+                        <text id="hectares-of-mangrove" opacity="0.639183408" font-family="CerebriSans-Light, Cerebri Sans" font-size="14" font-weight="300" line-spacing="18" fill="#FFFFFF">
+                            <tspan x="1" y="70.7000008">hectares of mangrove forests</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="52px" viewBox="0 0 67 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>news</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="news" fill-rule="nonzero">
+            <path d="M18.2215569,2 L18.2215569,45.90625 C18.2215569,47.3259989 17.9590276,48.7095619 17.4647528,50 L60.7503455,50 C63.3066004,50 65,48.2387671 65,45.5 L65,2 L18.2215569,2 Z" id="Path" stroke="#FFFFFF" stroke-width="4"></path>
+            <path d="M46.6,8 L59.4,8 C60.2864,8 61,8.669 61,9.5 C61,10.331 60.2864,11 59.4,11 L46.6,11 C45.7136,11 45,10.331 45,9.5 C45,8.669 45.7136,8 46.6,8 Z" id="Path" fill="#FFFFFF"></path>
+            <path d="M0,10 L0,45.9423077 C0,49.2982692 2.676,52 6,52 C9.324,52 12,49.2982692 12,45.9423077 L12,10 L0,10 Z" id="Path" fill="#E98316"></path>
+            <polygon id="Path" fill="#FFFFFF" points="24 8 37 8 37 23 24 23"></polygon>
+            <path d="M46.6,20 L59.4,20 C60.2864,20 61,20.669 61,21.5 C61,22.331 60.2864,23 59.4,23 L46.6,23 C45.7136,23 45,22.331 45,21.5 C45,20.669 45.7136,20 46.6,20 Z" id="Path" fill="#FFFFFF"></path>
+            <path d="M24.6170213,30 L59.3829787,30 C60.2788085,30 61,30.669 61,31.5 C61,32.331 60.2788085,33 59.3829787,33 L24.6170213,33 C23.7211915,33 23,32.331 23,31.5 C23,30.669 23.7211915,30 24.6170213,30 Z" id="Path" fill="#FFFFFF"></path>
+            <path d="M24.6170213,41 L59.3829787,41 C60.2788085,41 61,41.669 61,42.5 C61,43.331 60.2788085,44 59.3829787,44 L24.6170213,44 C23.7211915,44 23,43.331 23,42.5 C23,41.669 23.7211915,41 24.6170213,41 Z" id="Path" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

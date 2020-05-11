@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="15px" viewBox="0 0 19 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>pubs</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/publication" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-11">
+                <g id="pubs" transform="translate(8.500000, 10.000000)">
+                    <path d="M0.772135788,0.0397736291 C0.467961083,-0.0772166418 0.140388325,0.1567639 0.140388325,0.484336658 L0.140388325,11.879189 C0.140388325,12.0897715 0.28077665,12.2535579 0.467961083,12.3237521 C0.467961083,12.3237521 6.55145517,14.452975 8.30630923,14.9677322 L8.30630923,2.87093818 L0.772135788,0.0397736291 Z" id="Path"></path>
+                    <path d="M17.0571815,0.0397736291 C17.0571815,0.0397736291 11.0672796,2.26258878 9.28902751,2.87093818 L9.28902751,14.9677322 L17.3613562,12.3237521 C17.5485406,12.2535579 17.688929,12.0897715 17.688929,11.879189 L17.688929,0.484336658 C17.688929,0.1567639 17.3613562,-0.0772166418 17.0571815,0.0397736291 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="57px" viewBox="0 0 57 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>dataset</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-v3" transform="translate(-822.000000, -4242.000000)" fill-rule="nonzero">
+            <g id="learn-more-our-research" transform="translate(0.000000, 4006.000000)">
+                <g id="Group-14" transform="translate(220.000000, 66.000000)">
+                    <g id="Group-8" transform="translate(602.000000, 170.000000)">
+                        <g id="dataset">
+                            <rect id="Rectangle" fill="#FFFFFF" x="15" y="0" width="28" height="4"></rect>
+                            <rect id="Rectangle" fill="#E98316" x="8" y="10" width="41" height="4"></rect>
+                            <path d="M0,18 L0,57 L57,57 L57,18 L0,18 Z M53.56,53.4058193 L3.56,53.4058193 L3.56,21.4058193 L53.56,21.4058193 L53.56,53.4058193 Z" id="Shape" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

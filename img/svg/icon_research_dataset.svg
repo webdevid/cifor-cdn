@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="66px" viewBox="0 0 55 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>dataset</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-v3" transform="translate(-220.000000, -4240.000000)" fill-rule="nonzero">
+            <g id="learn-more-our-research" transform="translate(0.000000, 4006.000000)">
+                <g id="Group-14" transform="translate(220.000000, 66.000000)">
+                    <g id="Group-8" transform="translate(0.000000, 168.000000)">
+                        <g id="dataset">
+                            <path d="M52.9779412,2.01335113 L52.9779412,55.9866489 L13.1029412,55.9866489 L13.1029412,2.01335113 L52.9779412,2.01335113 Z M11,0 L11,58 L55,58 L55,0 L11,0 L11,0 Z" id="Shape" fill="#FFFFFF"></path>
+                            <rect id="Rectangle" fill="#000000" x="18" y="37" width="4" height="10"></rect>
+                            <rect id="Rectangle" fill="#000000" x="26" y="33" width="4" height="14"></rect>
+                            <rect id="Rectangle" fill="#000000" x="35" y="37" width="4" height="10"></rect>
+                            <rect id="Rectangle" fill="#000000" x="42" y="34" width="4" height="13"></rect>
+                            <rect id="Rectangle" fill="#000000" x="17" y="50" width="15" height="3"></rect>
+                            <rect id="Rectangle" fill="#000000" x="35" y="50" width="15" height="3"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" x="18" y="37" width="4" height="10"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" x="26" y="33" width="4" height="14"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" x="35" y="37" width="4" height="10"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" x="42" y="34" width="4" height="13"></rect>
+                            <g id="Group" transform="translate(27.000000, 6.500000)" fill="#E98316">
+                                <path d="M16.2642857,13.5964286 C16.0178571,14.2678571 15.6892857,14.9392857 15.1964286,15.4428571 L18.8107143,20.5625 C20.6178571,18.9678571 21.9321429,16.7857143 22.425,14.2678571 L16.2642857,13.5964286 Z" id="Path"></path>
+                                <path d="M12.5678571,7.05 C14.6214286,7.46964286 16.2642857,9.31607143 16.4285714,11.4982143 L22.5892857,12.1696429 C22.5892857,12.0857143 22.5892857,12.0017857 22.5892857,11.9178571 C22.5892857,6.04285714 18.1535714,1.175 12.5678571,0.671428571 L12.5678571,7.05 Z" id="Path"></path>
+                                <path d="M7.96785714,8.64464286 C8.625,7.88928571 9.52857143,7.30178571 10.5964286,7.05 L10.5964286,0.755357143 C7.31071429,1.09107143 4.43571429,2.85357143 2.62857143,5.37142857 L7.96785714,8.64464286 Z" id="Path"></path>
+                                <path d="M13.5535714,16.6178571 C12.9785714,16.8696429 12.2392857,17.0375 11.5821429,17.0375 C8.87142857,17.0375 6.65357143,14.7714286 6.65357143,12.0017857 C6.65357143,11.4142857 6.73571429,10.9107143 6.9,10.4071429 L1.64285714,7.21785714 C0.985714286,8.64464286 0.575,10.3232143 0.575,12.0017857 C0.575,18.2125 5.50357143,23.2482143 11.5821429,23.2482143 C13.6357143,23.2482143 15.525,22.6607143 17.1678571,21.6535714 L13.5535714,16.6178571 Z" id="Path"></path>
+                            </g>
+                            <rect id="Rectangle" fill="#FFFFFF" x="17" y="7" width="4" height="20"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" x="17" y="50" width="15" height="3"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" x="35" y="50" width="15" height="3"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" x="5" y="16" width="4" height="3"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" x="5" y="22" width="4" height="3"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" x="5" y="43" width="4" height="3"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" x="5" y="50" width="4" height="3"></rect>
+                            <polygon id="Path" fill="#FFFFFF" points="41.8970588 59.8050734 41.8970588 64.0640854 2.02205882 63.9866489 2.10294118 10.0133511 9.38235294 10.0133511 9.38235294 8 2.10294118 8 0 8 0 10.0133511 0 63.9866489 0 66 2.02205882 66 41.8970588 66 44 66 44 64.0640854 44 59.8050734"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
