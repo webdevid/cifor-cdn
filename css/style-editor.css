@@ -1,0 +1,5 @@
+/* update CF style form */
+
+.cf-multiselect__control {
+    height: auto !important;
+}
